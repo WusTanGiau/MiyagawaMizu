@@ -8,13 +8,12 @@
 - 💻 I’m currently learning **Java**
 - ⛏ I'm going to make some Minecraft mod
 - 🎮 Online almost 24/7 on **[Discord](https://discordapp.com/users/738748102311280681)**
-
-<h1 align="center" width="100%">📊 My Stats</h1>
+<h1 align="left" width="100%">📊 My Stats</h1>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Mizu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align="center">
+<p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a>
     <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
@@ -23,7 +22,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a>
 </p>
 
-<h1 align="center" width="100%">Connect with me</h1>
+<h1 align="left" width="100%"> 🌐 Connect with me</h1>
 
 
 <p align="left">
