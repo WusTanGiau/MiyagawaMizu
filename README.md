@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
 <img align="center" width="100%" src="https://media.giphy.com/media/EXfqOYL85lPRXdHt1o/giphy.gif" />
 
-## About Me
+## 📝 About Me
 
 - 🔍 Looking for a **Sensei** to learn
 - 💻 I’m currently learning **Java**
