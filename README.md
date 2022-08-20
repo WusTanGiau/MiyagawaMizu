@@ -1,6 +1,6 @@
 # wa u lukin at weeb!
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&theme=dark" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&theme=dark" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&layout=compact&show_icons=true&theme=dark" />
 
