@@ -11,10 +11,8 @@
 
 <h1 align="center" width="100%">📊 My Stats</h1>
 
-  <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img alt="Mizu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img alt="Mizu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="71.8%"/></a>
-    
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Mizu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p align="center">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a>
@@ -42,4 +40,3 @@
     <img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
 </a>
 <a href="https://github.com/MiyagawaMizu"><img src="https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social" alt="GitHub Badge"></a>
-
