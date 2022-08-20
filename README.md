@@ -1,3 +1,6 @@
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
 # wa u lukin at weeb!
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&theme=dark" />
@@ -16,3 +19,4 @@
 [<img align="left" alt="Discord" src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/738748102311280681)
 [<img align="left" alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://www.youtube.com/channel/UC-48FiZSnbewoYWO1BaYQ0A)
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/MiyagawaMizu)
+<!-- BLOG-POST-LIST:END -->
