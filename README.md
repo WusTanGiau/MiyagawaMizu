@@ -1,14 +1,15 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
 <img align="center" width="100%" src="https://media.giphy.com/media/EXfqOYL85lPRXdHt1o/giphy.gif" />
 
-## 📝 About Me
+### 📝 About Me
+___
 
 - 🔍 Looking for a **Sensei** to learn
 - 💻 I’m currently learning **Java**
 - ⛏ I'm going to make some Minecraft mod
 - 🎮 Online almost 24/7 on **[Discord](https://discordapp.com/users/738748102311280681)**
-## 📊 My Stats
-
+### 📊 My Stats
+___
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Mizu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -21,7 +22,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a>
 </p>
 
-## 🌐 Connect with me
+### 🌐 Connect with me
+___
 
 
 <p align="left">
@@ -33,7 +35,7 @@
 <a href = "http://live.xbox.com/Profile?Gamertag=MiyagawaMizu"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/></a>
 </p>
 
-#
+___
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
 </a>
