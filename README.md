@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
-<img align="center" width="100%" src="https://media.giphy.com/media/Jg5pzaF2KAga0TYVwW/giphy.gif" />
+<img align="center" width="100%" src="https://media.giphy.com/media/FQjBjmlrMaLN1k09xM/giphy.gif" />
 
 ### 📝 About Me
 ___
