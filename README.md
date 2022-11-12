@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
-<img align="center" width="100%" src="https://github.com/MiyagawaMizu/MiyagawaMizu/blob/main/nekozuka_hibiki.webp" />
+<img align="center" width="100%" src="https://github.com/MiyagawaMizu/MiyagawaMizu/blob/main/Zbke2Vv.gif" />
 
 ### 📝 About Me
 ___
