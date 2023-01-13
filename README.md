@@ -1,12 +1,10 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
-<img align="center" width="100%" src="https://github.com/MiyagawaMizu/MiyagawaMizu/blob/main/Zbke2Vv.gif" />
+<img align="center" width="100%" src="https://tenor.com/view/herrscher-of-human-ego-elysia-honkai-impact-elysias-make-up-class-gif-26469685" />
 
 ### 📝 About Me
 ___
 
 - 🔍 Looking for a **Sensei** to learn
-- 💻 I’m currently learning **Java**
-- ⛏ I'm going to make some Minecraft mod
 - 🎮 Online almost 24/7 on **[Discord](https://discordapp.com/users/738748102311280681)**
 ### 📊 My Stats
 ___
