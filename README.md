@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
-<img align="center" width="100%" src="https://tenor.com/view/herrscher-of-human-ego-elysia-honkai-impact-elysias-make-up-class-gif-26469685" />
+<img align="center" width="100%" src="https://cdn.discordapp.com/attachments/953841823338618900/1063608538435436604/herrscher-of-human-ego-elysia_1.gif" />
 
 ### 📝 About Me
 ___
