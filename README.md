@@ -1,14 +1,15 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
-<img align="center" width="100%" src="https://cdn.discordapp.com/attachments/953841823338618900/1063608538435436604/herrscher-of-human-ego-elysia_1.gif" />
+<img align="center" width="100%" src="https://img.guildedcdn.com/ContentMediaGenericFiles/06bb1fddb2038f2afba11cd9cdb848eb-Full.webp" />
 
 ### 📝 About Me
-___
 
+___
 - 🔍 Looking for a **Sensei** to learn
 - 🎮 Online almost 24/7 on **[Discord](https://discordapp.com/users/738748102311280681)**
 ### 📊 My Stats
+
 ___
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Mizu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Mizu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://lanyard.cnrad.dev/api/738748102311280681" /></a> |
 | ------------- | ------------- |
 
 <p align="left">
@@ -21,8 +22,8 @@ ___
 </p>
 
 ### 🌐 Connect with me
-___
 
+___
 
 <p align="left">
 
