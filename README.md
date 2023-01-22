@@ -9,7 +9,7 @@ ___
 ### 📊 My Stats
 
 ___
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Mizu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://lanyard.cnrad.dev/api/738748102311280681" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Mizu's github stats" /></a> | <a href="https://discordapp.com/users/738748102311280681"><img align="center" src="https://lanyard.cnrad.dev/api/738748102311280681" /></a> |
 | ------------- | ------------- |
 
 <p align="left">
