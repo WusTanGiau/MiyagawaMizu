@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Mízù</h1>
-<img align="center" width="100%" src="https://img.guildedcdn.com/ContentMediaGenericFiles/06bb1fddb2038f2afba11cd9cdb848eb-Full.webp" />
+<img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1061406954754424983/1073491189224976444/707107544100945920_0.gif" />
 
 ### 📝 About Me
 
