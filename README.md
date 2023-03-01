@@ -9,7 +9,7 @@ ___
 ### 📊 My Stats
 
 ___
-| <a href="https://osu.ppy.sh/users/32961288"><img align="center" src="https://osu-sig.vercel.app/card?user=Mizu-nee&mode=std&lang=en&blur=6&round_avatar=true&animation=true&skills=true" alt="Mizu's github stats" /></a> | <a href="https://discordapp.com/users/738748102311280681"><img align="center" src="https://lanyard.cnrad.dev/api/738748102311280681" /></a> |
+| <a href="https://osu.ppy.sh/users/32961288"><img align="center" src="https://osu-sig.vercel.app/card?user=Mizu-nee&mode=std&lang=en&blur=6&round_avatar=true&animation=true" alt="Mizu's github stats" /></a> | <a href="https://discordapp.com/users/738748102311280681"><img align="center" src="https://lanyard.cnrad.dev/api/738748102311280681" /></a> |
 | ------------- | ------------- |
 
 
