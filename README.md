@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Mízù</h1>
+<h1 align="center">Hi there 👋, my name is Mizu!</h1>
 <img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1061406954754424983/1073491189224976444/707107544100945920_0.gif" />
 
 ### 📝 About Me
