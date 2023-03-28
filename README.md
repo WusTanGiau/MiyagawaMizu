@@ -2,11 +2,6 @@
 
 # Hi there i'm Mizu 🌸
 
-I'm 19 years old and my hobbies are playing games, watching anime, reading manga, and occasionally tinkering with technology (basically, I'm ニート). 
-
---- 
-
-### Connect with me
 <div>
 <a href = "https://discordapp.com/users/738748102311280681"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href = "https://www.facebook.com/MiyagawaMizu"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -14,6 +9,10 @@ I'm 19 years old and my hobbies are playing games, watching anime, reading manga
 <a href = "https://steamcommunity.com/id/MiyagawaMizu/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href = "http://live.xbox.com/Profile?Gamertag=MiyagawaMizu"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/></a>
 </div>
+
+--- 
+
+I'm 19 years old and my hobbies are playing games, watching anime, reading manga, and occasionally tinkering with technology (basically, I'm ニート). 
 
 ___
 ### My Stats
