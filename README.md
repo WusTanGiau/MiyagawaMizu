@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mizu-nê" src="https://media.discordapp.net/attachments/953841823338618900/1085793866193584158/a_7f6e1adfd31bf02360c07181907f2ea2.gif">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mizu-nee" src="https://avatars.githubusercontent.com/u/71164002?s=400&u=1e6b822e65fcafcd145a505d204fbc86bafccd35&v=4">
 
 # Hi there i'm Mizu 🌸
 
