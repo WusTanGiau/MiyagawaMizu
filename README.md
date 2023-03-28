@@ -1,10 +1,11 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mizu-nee" src="https://cdn.discordapp.com/attachments/953841823338618900/1087471163820740709/a_7f6e1adfd31bf02360c07181907f2ea2.gif">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mizu-nê" src="https://media.discordapp.net/attachments/953841823338618900/1085793866193584158/a_7f6e1adfd31bf02360c07181907f2ea2.gif">
 
 # Hi there i'm Mizu 🌸
 
-I'm 19 years old and my hobbies are playing games, watching anime, reading manga, and occasionally tinkering with technology (basically, I'm a ニート).
+I'm 19 years old and my hobbies are playing games, watching anime, reading manga, and occasionally tinkering with technology (basically, I'm ニート). 
 
-___
+--- 
+
 ### Connect with me
 <div>
 <a href = "https://discordapp.com/users/738748102311280681"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
