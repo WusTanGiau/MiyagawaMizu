@@ -15,7 +15,7 @@
 I'm 19 years old and my hobbies are playing games, watching anime, reading manga, and occasionally tinkering with technology (basically, I'm ニート). 
 
 ___
-### My Stats
+## My Stats 📈
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miyagawamizu&show_icons=true&theme=tokyonight" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyagawamizu&layout=compact&theme=tokyonight" alt="Mizu's github stats" /></a> |
 | ---- | --- |
