@@ -1,27 +1,27 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mizu-nee" src="https://avatars.githubusercontent.com/u/71164002?s=400&u=1e6b822e65fcafcd145a505d204fbc86bafccd35&v=4">
+<img align="right" alt="profile" width=50% src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
 
-# Hi there i'm Mizu 🌸
+### Hey, I'm Mizu 🌸
 
-<div>
-<a href = "https://discordapp.com/users/738748102311280681"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href = "https://www.facebook.com/MiyagawaMizu"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href = "https://www.youtube.com/channel/UC-48FiZSnbewoYWO1BaYQ0A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a href = "https://steamcommunity.com/id/MiyagawaMizu/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<a href = "http://live.xbox.com/Profile?Gamertag=MiyagawaMizu"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/></a>
-</div>
+I'm a 19 yo developer and gamer.
 
---- 
+## ☕ About me
 
-I'm 19 years old and my hobbies are playing games, watching anime, reading manga, and occasionally tinkering with technology (basically, I'm ニート). 
+I'm **ニート** and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff. I'm quite shy, so it would be really nice if you're the one who takes the initiative to be friends with me ≩ᴗ≨.
 
-___
-## My Stats 📈
+## 💻 Experience
 
-| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miyagawamizu&show_icons=true&theme=tokyonight" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyagawamizu&layout=compact&theme=tokyonight" alt="Mizu's github stats" /></a> |
-| ---- | --- |
-| <a href="https://discord.com/users/738748102311280681" target="_blank"><img align="center" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" /></a> | <a href="https://osu.ppy.sh/users/32961288" target="_blank"><img align="center" src="https://osu-sig.vercel.app/card?user=Mizu-nee&mode=std&lang=en&round_avatar=true&animation=true" /></a> |
+Still learning, I don't have anything special yet. But I hope to be able to change that in the future ( *︾▽︾).
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
-</a>
-<a href="https://github.com/MiyagawaMizu"><img src="https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social" alt="GitHub Badge"></a>
+## 📊 Stats
+
+<div><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></div>
+
+ 
+
+## 📫 Contact
+Please Contact me on Discord for a prompt response: [Mizu-nee#2203](https://discord.com/users/738748102311280681).
+
+You can also email me here: miyagawamizu@courvix.com
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"></a> <a href="https://github.com/MiyagawaMizu"><img src="https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://discord.com/users/350945523810959361"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/> <a href="https://www.facebook.com/miyagawamizu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> </a><a href="mailto:miyagawamizu@courvix.com"><img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/></a> </a>
+
