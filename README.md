@@ -2,7 +2,8 @@
 
 ### Hey, I'm Mizu 🌸
 
-I'm a 19 yo developer and gamer.
+I'm a 19 yo developer and gamer <img src="https://raw.githubusercontent.com/MiyagawaMizu/miyagawamizu.github.io/main/public/mahiro_flex.ico" width="32"></img>.
+<br>
 
 ## ☕ About me
 
