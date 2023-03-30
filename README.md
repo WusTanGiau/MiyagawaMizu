@@ -2,8 +2,7 @@
 
 ### Hey, I'm Mizu 🌸
 
-I'm a 19 yo developer and gamer!
-<br>
+I'm a 19 yo developer and gamer 
 
 ## ☕ About me
 
@@ -11,7 +10,7 @@ I'm **ニート** and my hobbies are playing games, watching anime, reading mang
 
 ## 💻 Experience
 
-Still learning, I don't have anything special yet. But I hope to be able to change that in the future <img src="[https://raw.githubusercontent.com/MiyagawaMizu/miyagawamizu.github.io/main/public/mahiro_flex.ico](https://cdn.discordapp.com/attachments/988421399511195678/1091015546780270723/mahiro_hurt.png)" width="64"></img>.
+<img src="https://cdn.discordapp.com/emojis/1059638606941130872.webp?size=160&quality=lossless" width="64"></img> Still learning, I don't have anything special yet. But I hope to be able to change that in the future.
 <br>
 
 ## 📊 Stats
