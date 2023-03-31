@@ -1,4 +1,5 @@
-<img align="right" alt="profile" width=50% src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
+<a href="https://discord.com/users/350945523810959361"><img align="right" alt="profile" width=50% src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+
 
 ### Hey, I'm Mizu 🌸
 
