@@ -2,7 +2,7 @@
 
 ### Hey, I'm Mizu 🌸
 
-I'm a 19 yo developer and gamer 
+I'm a 19 yo developer and gamer.
 
 ## ☕ About me
 
@@ -10,7 +10,7 @@ I'm **ニート** and my hobbies are playing games, watching anime, reading mang
 
 ## 💻 Experience
 
-<img src="https://cdn.discordapp.com/emojis/1059638606941130872.webp?size=160&quality=lossless" width="64"></img> Still learning, I don't have anything special yet. But I hope to be able to change that in the future.
+<img src="https://cdn.discordapp.com/emojis/1059638606941130872.webp?size=160&quality=lossless" width="32"></img> Still learning, I don't have anything special yet. But I hope to be able to change that in the future.
 <br>
 
 ## 📊 Stats
@@ -24,5 +24,4 @@ Please Contact me on Discord for a prompt response: [Mizu-nee#2203](https://disc
 
 You can also email me here: miyagawamizu@courvix.com
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"></a> <a href="https://github.com/MiyagawaMizu"><img src="https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://discord.com/users/350945523810959361"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/> <a href="https://www.facebook.com/miyagawamizu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> </a><a href="mailto:miyagawamizu@courvix.com"><img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/></a> <a href="https://www.paypal.com/paypalme/miyagawamizu"><img src="https://img.shields.io/badge/Donate%20with-PayPal-blue?logo=paypal&logoColor=white"/></a>
-
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"></a> <a href="https://github.com/MiyagawaMizu"><img src="https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://discord.com/users/350945523810959361"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/> <a href="https://www.facebook.com/miyagawamizu"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a> </a><a href="mailto:miyagawamizu@courvix.com"><img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/></a> <a href="https://www.paypal.com/paypalme/miyagawamizu"><img src="https://img.shields.io/badge/PayPal-blue?logo=paypal&logoColor=white"/></a> <a href="https://ko-fi.com/miyagawamizu"><img src="https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white"/></a>  <a href="https://https://www.patreon.com/MiyagawaMizu"><img src="https://img.shields.io/badge/Patreon-ff6855?logo=patreon&logoColor=white"/></a>
