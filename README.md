@@ -21,7 +21,7 @@ I'm **ニート** and my hobbies are playing games, watching anime, reading mang
  
 
 ## 📫 Contact
-Please Contact me on Discord for a prompt response: [Mizu-nee#2203](https://discord.com/users/738748102311280681).
+Please Contact me on Discord for a prompt response: [Mizu#2203](https://discord.com/users/738748102311280681).
 
 You can also email me here: miyagawamizu@courvix.com
 
