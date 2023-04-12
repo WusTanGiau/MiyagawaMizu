@@ -3,7 +3,7 @@
 
 ### Hey, I'm Mizu 🌸
 
-I'm a 19 yo developer and gamer.
+I'm a developer and gamer.
 
 ## ☕ About me
 
