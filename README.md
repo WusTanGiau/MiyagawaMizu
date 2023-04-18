@@ -7,8 +7,7 @@ I'm a developer and gamer.
 
 ## ☕ About me
 
-I'm **ニート** and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff. I'm quite shy, so it would be really nice if you're the one who takes the initiative to be friends with me ≩ᴗ≨.
-
+I'm **ニート** and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff.
 ## 💻 Experience
 
 <img src="https://cdn.discordapp.com/emojis/1059638606941130872.webp?size=160&quality=lossless" width="32"></img> Still learning, I don't have anything special yet. But I hope to be able to change that in the future.
