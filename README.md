@@ -14,7 +14,7 @@ _Web Developer and Gamer_
 ## `💻 Experience`
 <div>
   <a href="https://github.com/MiyagawaMizu"><img align="left" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-  <span>Two years of College have passed, and I am still learning. I have not yet achieved anything special, but I hope to be able to change that in the future.</span>
+  <span>Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.</span>
 </div>
 <br> <!-- hoặc -->
 &nbsp;
