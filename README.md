@@ -3,7 +3,7 @@
 
 ### `Hi! I'm Mizu 🌸`
 
-_Web Developer and Gamer_ 
+**_Web Developer and Gamer_** 
 
 ## `☕ About me `
 <div>
