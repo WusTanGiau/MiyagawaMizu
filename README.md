@@ -8,8 +8,8 @@
 ## `☕ About me `
 <div>
   <a href="https://github.com/MiyagawaMizu"><img align="left" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
-  <span>I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.</span><p>(〃' ^ '〃)</p>
-</div>
+  <span>I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.</span>
+</div><br>
 
 ## `💻 Experience`
 <div>
