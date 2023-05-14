@@ -1,29 +1,27 @@
 <a href="https://discord.com/users/738748102311280681"><img align="right" alt="profile" width=50% src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
-### `Hi! I'm Mizu 🌸`
+### Hi! I'm Mizu 🌸
 
 **_Web Developer and Gamer_** 
 
-## `☕ About me `
+## ☕ About me
 <div>
   <a href="https://github.com/MiyagawaMizu"><img align="left" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
   <span>I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.</span>
 </div><br>
 
-## `💻 Experience`
+## 💻 Experience
 <div>
   <a href="https://github.com/MiyagawaMizu"><img align="left" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-  <span>Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.</span>
-</div>
-<br> <!-- hoặc -->
-&nbsp;
+  <span>I'm studying software engineering at ICTU - Thai Nguyen University of Infomation and Communication Technology. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.</span>
+</div><br><br>
 
-## `📊 Stats`
+## 📊 Stats
 
 <div><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/></div>
 
-## `📫 Contact`
+## 📫 Contact
 <a href="https://github.com/MiyagawaMizu"><img align="left" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png"></a>
 Please Contact me on Discord for a quick response: [Mizu#2203](https://discord.com/users/738748102311280681).
 
