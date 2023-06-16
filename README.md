@@ -19,9 +19,9 @@
 
 ## **📫 Contact**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Please Contact me on Discord for a quick response:** [MiyagawaMizu](https://discord.com/users/738748102311280681).
+**Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
 
-**You can also email me here:** miyagawamizu@courvix.com
+**You can also email me here:** acutegirldoescutethings@gmail.com
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"></a><a href="https://github.com/MiyagawaMizu"> <img src="https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://discord.com/users/350945523810959361"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/> <a href="https://www.facebook.com/miyagawamizu"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a> </a><a href="mailto:miyagawamizu@courvix.com"><img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/></a> <a href="https://ko-fi.com/miyagawamizu"><img src="https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white"/></a>
