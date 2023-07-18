@@ -29,6 +29,7 @@ Hehe~ another cutie has been caught.
 ## **📫 Contact**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
 **Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
+
 **You can also email me here:** acutegirldoescutethings@gmail.com
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"> -->
