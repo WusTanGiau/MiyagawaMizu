@@ -20,7 +20,7 @@
 
 ## **🎧 Spotify**
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="500" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
 </p>
 
 ## **🧋Cutie Counter**
