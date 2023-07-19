@@ -39,7 +39,10 @@ Hehe~ another cutie has been caught.
 **You can also email me here:** acutegirldoescutethings@gmail.com
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"> -->
-</a><a href="https://github.com/MiyagawaMizu"> <img src="https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://discord.com/users/350945523810959361"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/> <a href="https://www.facebook.com/miyagawamizu"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a> </a><a href="mailto:miyagawamizu@courvix.com"><img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/></a> <a href="https://ko-fi.com/miyagawamizu"><img src="https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white"/></a> <a href="https://steamcommunity.com/id/MiyagawaMizu"><img src="https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white"/></a>
-[![](https://img.shields.io/badge/-PlayStation-0070d1?logo=playstation&logoColor=ffffff)]()
+[![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/MiyagawaMizu)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/350945523810959361)
+[![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/MiyagawaMizu)
+[![](https://img.shields.io/badge/-PlayStation-0070d1?logo=playstation&logoColor=ffffff)](https://steamcommunity.com/id/MiyagawaMizu)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:miyagawamizu@courvix.com)
+[![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu)
