@@ -1,3 +1,8 @@
+<div align="center">
+	
+![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=")
+
+</div>
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=50% src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
