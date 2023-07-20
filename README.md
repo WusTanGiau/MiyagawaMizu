@@ -1,9 +1,9 @@
 <div align="center">
 	
-![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=")
+![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=100&comment=)
 
 </div>
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=50% src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://discord.com/users/738748102311280681"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
 ### **Hi! I'm Mizu 🌸**
@@ -11,12 +11,16 @@
 **`Web Developer and Gamer`** 
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>I'm `Hikikomori + NEET` and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
-
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+<!-- I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future. -->
+```yaml
+I'm currently studying software engineering at ICTU - Thai Nguyen University of Information and Communication Technology. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+```
 
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
@@ -33,11 +37,14 @@
 	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>People who visit my profile :3.
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+
+```yaml
+People who visit my profile :3.
 
 Hehe~ another cutie has been caught.
-<br><br><br><br>
-
+```
+<!-- <br><br><br><br> -->
 ## **📫 Contact**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
 **Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
