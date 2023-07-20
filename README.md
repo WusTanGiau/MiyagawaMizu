@@ -61,3 +61,4 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/-PlayStation-0070d1?logo=playstation&logoColor=ffffff)](https://steamcommunity.com/id/MiyagawaMizu)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:miyagawamizu@courvix.com)
 [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu)
+[![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/)
