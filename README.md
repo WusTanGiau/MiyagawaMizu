@@ -57,6 +57,7 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/MiyagawaMizu)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/350945523810959361)
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/miyagawamizu)
+[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/MiyagawaMizu)
 [![](https://img.shields.io/badge/-PlayStation-0070d1?logo=playstation&logoColor=ffffff)](https://steamcommunity.com/id/MiyagawaMizu)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:miyagawamizu@courvix.com)
