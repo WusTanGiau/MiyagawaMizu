@@ -7,9 +7,9 @@
 <a href="https://discord.com/users/738748102311280681"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
-### **Hi! I'm Mizu 🥕**
+### Hi!👋 I'm **`Thủy`** aka `Mizu 🥕`
 
-**`Weeb Developer and Gamer`** 
+**Weeb Developer and Gamer** 
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
