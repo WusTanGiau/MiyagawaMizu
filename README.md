@@ -9,7 +9,7 @@
 <a href="https://discord.com/users/738748102311280681"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
-### Hi!👋 I'm **`Thủy`** aka `Mizu 🦴`
+### Hi!👋 I'm **`Thủy`** aka `Mizu🧋`
 
 **Weeb Developer and Gamer** 
 
@@ -58,7 +58,6 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/miyagawamizu)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/MiyagawaMizu)
-[![](https://img.shields.io/badge/-PlayStation-0070d1?logo=playstation&logoColor=ffffff)](https://steamcommunity.com/id/MiyagawaMizu)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:miyagawamizu@courvix.com)
 [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu)
 <!-- [![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
