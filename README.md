@@ -14,12 +14,12 @@
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png?ex=65ff1863&is=65eca363&hm=33a566255dfbf8710cf2a260e10fe8a9c097c241064a33cc43771f548c16d8c6&"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png?ex=65ff1870&is=65eca370&hm=b5702ae34a2a46149cd2432c04bed270ae5756e12752a73821407bb283261533&"></a>
 I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
@@ -38,7 +38,7 @@ I'm currently studying software engineering at [ICTU - Thai Nguyen University of
 	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png?ex=66022850&is=65efb350&hm=8c81f4e25d6dca35c0a840398538d0672fd2432f3224faca7a127494cf707eb9&"></a>
 
 ```yaml
 People who visit my profile :3.
@@ -47,7 +47,7 @@ Hehe~ another cutie has been caught.
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png?ex=65ff1882&is=65eca382&hm=620c0b9533291e771d210370035d995c6a550ae99495fe08885cd1a7a2a6cf8b&" /></a>
 **Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
 
 **You can also email me here:** acutegirldoescutethings@gmail.com
