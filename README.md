@@ -50,7 +50,7 @@ Hehe~ another cutie has been caught.
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png?ex=65ff1882&is=65eca382&hm=620c0b9533291e771d210370035d995c6a550ae99495fe08885cd1a7a2a6cf8b&" /></a>
 **Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
 
-**You can also email me here:** acutegirldoescutethings@gmail.com
+**You can also email me here:** mizuneenee@gmail.com
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"> -->
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/MiyagawaMizu)
